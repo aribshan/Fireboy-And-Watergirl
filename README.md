@@ -5,4 +5,5 @@ a 3D platformer game themed similar to the 2D platformer fireboy and watergirl
 ![Screenshot](FBWG.png)
 
 ## Video Demo of the game
-[![Watch the video](https://img.youtube.com/vi/kYWxkGiYEts/maxresdefault.jpg)](https://youtu.be/kYWxkGiYEts)
+https://youtu.be/Ttn2G8qVwJA
+[![Watch the video](https://img.youtube.com/vi/Ttn2G8qVwJA/maxresdefault.jpg)](https://youtu.be/Ttn2G8qVwJA)
